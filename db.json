@@ -20,7 +20,7 @@
             "id": 2,
             "name": "Kaani Palm Beach",
             "location": "Maldives",
-            "category": "Beach Beach Vacation",
+            "category": "Beach Vacation",
             "image": [
                 "https://cdn1.goibibo.com/voy_ing/t_fs/5c52aaf0d94611e983820242ac110005.jpg",
                 "https://cdn1.goibibo.com/voy_ing/t_fs/7aa49ab0894311ea80210242ac110003.jpg",
@@ -141,7 +141,8 @@
             ],
             "price": 5500,
             "rating": "&#11088 &#11088 &#11088",
-            "description": "Deccan Park is a great option for travellers looking out for resort in Ooty. It is located in Central Ooty.This Resort stands out as one of the highly recommended resort in Ooty and is recommended by 89% of our guests. Resort is rated 4.0 out of 5, which is considered as very good. The property enjoys a great location advantage and provides easy and fast connectivity to the major transit points of the city."
+            "description": "Deccan Park is a great option for travellers looking out for resort in Ooty. It is located in Central Ooty.This Resort stands out as one of the highly recommended resort in Ooty and is recommended by 89% of our guests. Resort is rated 4.0 out of 5, which is considered as very good. The property enjoys a great location advantage and provides easy and fast connectivity to the major transit points of the city.",
+            "booked": true
         },
         {
             "id": 10,
@@ -488,7 +489,22 @@
             "email": "charis@gmail.com",
             "password": 1234,
             "image": "https://i.pinimg.com/564x/fc/e9/5f/fce95f8429060c23c94680d1ee86d03d.jpg",
-            "bookings": [],
+            "bookings": [
+                {
+                    "name": "Atlantis, The Palm",
+                    "location": "Dubai",
+                    "category": "Stay Like Royals",
+                    "image": [
+                        "https://cdn1.goibibo.com/voy_ing/t_fs/80baeba80def11eb964c0242ac110002.jpg",
+                        "https://cdn1.goibibo.com/voy_mmt/t_fs/htl-imgs/4190725563792411-13f73e8cd91811eb80260242ac110009.jpg",
+                        "https://cdn1.goibibo.com/voy_ing/t_fs/fc4b1b3e3d5711eb8ad00242ac110005.jpg",
+                        "https://cdn1.goibibo.com/voy_mmt/t_fs/htl-imgs/4190725563792411-1d3b3a205ebc11eabbf30242ac110004.jpg"
+                    ],
+                    "price": 36019,
+                    "rating": "&#11088 &#11088 &#11088 &#11088 &#11088",
+                    "description": "Atlantis, The Palm is a great choice for travellers looking for a 5 star hotel in Dubai. It is located in Palm Jumeirah.This Hotel stands out as one of the highly recommended hotel in Dubai and is recommended by 95% of our guests."
+                }
+            ],
             "booked": true
         },
         {
@@ -497,7 +513,36 @@
             "email": "emma@gmail.com",
             "password": 1234,
             "image": "https://i.pinimg.com/564x/73/f6/d0/73f6d01b887bed445ac06843b562e564.jpg",
-            "bookings": [],
+            "bookings": [
+                {
+                    "name": "Sonesta Inn",
+                    "location": "Goa",
+                    "category": "Party Destination",
+                    "image": [
+                        "https://cdn1.goibibo.com/voy_mmt/t_fs/htl-imgs/20080611094907708-9e0c7318d20711e9abfa0242ac110002.jpg",
+                        "https://cdn1.goibibo.com/voy_ing/t_fs/e02ea7c88fed11edaa0a0a58a9feac02.jpg",
+                        "https://cdn1.goibibo.com/voy_mmt/t_fs/htl-imgs/20080611094907708-7f193b221b3911eba1f40242ac110002.jpg",
+                        "https://cdn1.goibibo.com/voy_mmt/t_fs/htl-imgs/20080611094907708-562595ae1b3811eba76b0242ac110002.jpg"
+                    ],
+                    "price": 5928,
+                    "rating": "&#11088 &#11088 &#11088 &#11088 &#11088",
+                    "description": "Sonesta Inn is a great option for travellers looking out for resort in Goa. It is located in Candolim. This Resort stands out as one of the highly recommended resort in Goa and is recommended by 94% of our guests."
+                },
+                {
+                    "name": "Sonesta Inn",
+                    "location": "Goa",
+                    "category": "Party Destination",
+                    "image": [
+                        "https://cdn1.goibibo.com/voy_mmt/t_fs/htl-imgs/20080611094907708-9e0c7318d20711e9abfa0242ac110002.jpg",
+                        "https://cdn1.goibibo.com/voy_ing/t_fs/e02ea7c88fed11edaa0a0a58a9feac02.jpg",
+                        "https://cdn1.goibibo.com/voy_mmt/t_fs/htl-imgs/20080611094907708-7f193b221b3911eba1f40242ac110002.jpg",
+                        "https://cdn1.goibibo.com/voy_mmt/t_fs/htl-imgs/20080611094907708-562595ae1b3811eba76b0242ac110002.jpg"
+                    ],
+                    "price": 5928,
+                    "rating": "&#11088 &#11088 &#11088 &#11088 &#11088",
+                    "description": "Sonesta Inn is a great option for travellers looking out for resort in Goa. It is located in Candolim. This Resort stands out as one of the highly recommended resort in Goa and is recommended by 94% of our guests."
+                }
+            ],
             "booked": true
         },
         {
@@ -506,7 +551,50 @@
             "email": "jack@gmail.com",
             "password": "1234",
             "image": "https://i.pinimg.com/564x/07/dd/c9/07ddc9cc3a20106bada7416c7734af65.jpg",
-            "bookings": [],
+            "bookings": [
+                {
+                    "name": "Deccan Park",
+                    "location": "Ooty",
+                    "category": "Mountains Calling",
+                    "image": [
+                        "https://cdn1.goibibo.com/voy_ing/t_fs/64a418268eea11e8a7a00ae8d8079e7e.jpg",
+                        "https://cdn1.goibibo.com/voy_ing/t_fs/06c6e68c859911ea95390242ac110005.png",
+                        "https://cdn1.goibibo.com/voy_ing/t_fs/0d3c3b42ccd911ebb1f80242ac110004.jpg",
+                        "https://cdn1.goibibo.com/voy_mmt/t_fs/htl-imgs/201009291254212216-5bb5bebe21c511e8a7780a9df65c8753.jpg"
+                    ],
+                    "price": 5500,
+                    "rating": "&#11088 &#11088 &#11088",
+                    "description": "Deccan Park is a great option for travellers looking out for resort in Ooty. It is located in Central Ooty.This Resort stands out as one of the highly recommended resort in Ooty and is recommended by 89% of our guests. Resort is rated 4.0 out of 5, which is considered as very good. The property enjoys a great location advantage and provides easy and fast connectivity to the major transit points of the city."
+                },
+                {
+                    "name": "Tulips Elkhill Resorts",
+                    "location": "Ooty",
+                    "category": "Mountains Calling",
+                    "image": [
+                        "https://cdn1.goibibo.com/voy_ing/t_fs/e0aed7ec256011e885890a9df65c8753.jpg",
+                        "https://cdn1.goibibo.com/voy_mmt/t_fs/htl-imgs/201707191557005067-a220e7cc256011e88e8302755708f0b3.jpg",
+                        "https://cdn1.goibibo.com/voy_ing/t_fs/1a54003eb43611e999290a4cef95d023.jpg",
+                        "https://cdn1.goibibo.com/voy_ing/t_fs/1b16db40b43611e989ad0ac254d2bca4.jpg"
+                    ],
+                    "price": 4400,
+                    "rating": "&#11088 &#11088 &#11088",
+                    "description": "Tulips Elkhill Resorts is a reasonable option for travellers looking out for resort in Ooty. It is located in Fern Hill. Resort is rated 2.9 out of 5, which is considered as average. The property enjoys a great location advantage and provides easy and fast connectivity to the major transit points of the city."
+                },
+                {
+                    "name": "Villa Nautica at Paradise Island",
+                    "location": "Maldives",
+                    "category": "Beach Vacation",
+                    "image": [
+                        "https://cdn1.goibibo.com/voy_ing/t_fs/cdbee3761b8311ec8b410a58a9feac02.jpg",
+                        "https://cdn1.goibibo.com/voy_ing/t_fs/f348b7a243f311eab9670242ac110003.jpg",
+                        "https://cdn1.goibibo.com/voy_mmt_ext/t_fs/htl-imgs/6608967321242386-77369550_z.jpg",
+                        "https://cdn1.goibibo.com/voy_mmt_ext/t_fs/htl-imgs/6608967321242386-4f68c7cb_z.jpg"
+                    ],
+                    "price": 9511,
+                    "rating": "&#11088 &#11088 &#11088 &#11088",
+                    "description": "Villa Nautica at Paradise Island is a great option for travellers looking out for resort in Maldives. It is located in North Male Atoll.This Resort stands out as one of the highly recommended resort in Maldives and is recommended by 95% of our guests. Resort is rated 4.5 out of 5, which is considered as excellent"
+                }
+            ],
             "booked": true
         },
         {
@@ -524,7 +612,22 @@
             "email": "kim@gmail.com",
             "password": "1234",
             "image": "https://i.pinimg.com/564x/a8/b9/1c/a8b91c5f91e53bc9294bb9b0a029fdcd.jpg",
-            "bookings": [],
+            "bookings": [
+                {
+                    "name": "Alps Sunshine Regency",
+                    "location": "Shimla",
+                    "category": "Mountains Calling",
+                    "image": [
+                        "https://cdn1.goibibo.com/voy_mmt/t_fs/htl-imgs/201411071749256087-5deb70f6c71c11ecb8570a58a9feac02.jpg",
+                        "https://cdn1.goibibo.com/voy_mmt/t_fs/htl-imgs/201411071749256087-70588b80e27711edb7400a58a9feac02.jpg",
+                        "https://cdn1.goibibo.com/voy_mmt/t_fs/htl-imgs/201411071749256087-49f811dacfcd11ec90780a58a9feac02.jpg",
+                        "https://cdn1.goibibo.com/voy_mmt/t_fs/htl-imgs/201411071749256087-897cf8fcc71c11ec8bd20a58a9feac02.jpg"
+                    ],
+                    "price": 4112,
+                    "rating": "&#11088 &#11088 &#11088",
+                    "description": "Alps Sunshine Regency is a great choice for travellers looking for a 3 star hotel in Shimla. It is located in Kachi Ghatti.This Hotel stands out as one of the highly recommended hotel in Shimla and is recommended by 100% of our guests."
+                }
+            ],
             "booked": true
         }
     ],
