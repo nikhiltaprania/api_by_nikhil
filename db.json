@@ -480,5 +480,82 @@
             "description": "Atlantis, The Palm is a great choice for travellers looking for a 5 star hotel in Dubai. It is located in Palm Jumeirah.This Hotel stands out as one of the highly recommended hotel in Dubai and is recommended by 95% of our guests.",
             "booked": false
         }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "Chris Evans",
+            "email": "charis@gmail.com",
+            "password": 1234,
+            "image": "https://i.pinimg.com/564x/fc/e9/5f/fce95f8429060c23c94680d1ee86d03d.jpg",
+            "bookings": [],
+            "booked": true
+        },
+        {
+            "id": 2,
+            "name": "Emma Watson",
+            "email": "emma@gmail.com",
+            "password": 1234,
+            "image": "https://i.pinimg.com/564x/73/f6/d0/73f6d01b887bed445ac06843b562e564.jpg",
+            "bookings": [],
+            "booked": true
+        },
+        {
+            "id": 3,
+            "name": "Jack Truth",
+            "email": "jack@gmail.com",
+            "password": "1234",
+            "image": "https://i.pinimg.com/564x/07/dd/c9/07ddc9cc3a20106bada7416c7734af65.jpg",
+            "bookings": [],
+            "booked": true
+        },
+        {
+            "id": 4,
+            "name": "Bianca Belair",
+            "email": "bianca@gmail.com",
+            "password": "1234",
+            "image": "https://i.pinimg.com/564x/e2/d7/ac/e2d7ac0ad4aeac89c59baa798967b040.jpg",
+            "bookings": [],
+            "booked": true
+        },
+        {
+            "id": 5,
+            "name": "Kim Namjoon",
+            "email": "kim@gmail.com",
+            "password": "1234",
+            "image": "https://i.pinimg.com/564x/a8/b9/1c/a8b91c5f91e53bc9294bb9b0a029fdcd.jpg",
+            "bookings": [],
+            "booked": true
+        }
+    ],
+    "admin": [
+        {
+            "id": 1,
+            "name": "Tanuj",
+            "email": "tanuj@gmail.com",
+            "password": 1234,
+            "image": "https://www.clipartkey.com/mpngs/m/94-943097_stockvader-predicted-adig-user-profile-image-png.png"
+        },
+        {
+            "id": 2,
+            "name": "Nikhil",
+            "email": "nikhil@gmail.com",
+            "password": 1234,
+            "image": "https://www.clipartkey.com/mpngs/m/94-942235_avatar-profile-icon-png.png"
+        },
+        {
+            "id": 3,
+            "name": "Abhishree",
+            "email": "abhishree@gmail.com",
+            "password": 1234,
+            "image": "https://www.clipartkey.com/mpngs/m/172-1729893_computer-icons-female-user-profile-avatar-material-user.png"
+        },
+        {
+            "id": 4,
+            "name": "Akshay",
+            "email": "akshay@gmail.com",
+            "password": 1234,
+            "image": "https://www.clipartkey.com/mpngs/m/179-1792834_oic-provincial-statistics-officer-psa-maguindanao-profile-avatar.png"
+        }
     ]
 }
